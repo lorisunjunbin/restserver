@@ -5,8 +5,6 @@ const app = express();
 const dummyData = {
     "products": require('./dummydata/products'),
     "categories": require('./dummydata/categories'),
-    "employeeNumberSet('00190002')": require('./dummydata/employeeProfile'),
-    "managerNumberSet('00190001')": require('./dummydata/manager'),
     "define_dummy_data": "in_folder_dummydata"
 };
 
