@@ -1,0 +1,14 @@
+{
+  "name": "restserver",
+  "version": "1.0.0",
+  "description": "sample rest api server",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "LoriSUN",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
